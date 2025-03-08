@@ -29,7 +29,7 @@ This project analyzes accident data by cleaning it with Python and visualizing k
 ![Dashboard Preview](powerbi%20dashboard.png)
 
 #### **Author**  
-👤 Your Name – [LinkedIn](https://www.linkedin.com/in/neema-muroki-datascience) 
+👤 Neema Muroki – [LinkedIn](https://www.linkedin.com/in/neema-muroki-datascience) 
 
 ### **Key insight:**
 From analyzing the data, I found the following key points:
