@@ -15,8 +15,8 @@ This project analyzes accident data by cleaning it with Python and visualizing k
 #### **Setup & Usage**  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Neemakinya-23/Python_BI_.git
+   cd Python_BI_Portfolio
    ```
 2. Open **Data_wrangling_python.ipynb** to see the data cleaning process.  
 3. Open `Accidents_visualization.pbix` in Power BI to explore the dashboard.  
