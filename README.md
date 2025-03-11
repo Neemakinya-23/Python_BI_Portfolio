@@ -1,4 +1,4 @@
-### **Accidents Visualization Dashboard** 🚗📊  
+### **Accidents Visualization Dashboard** 🚗  
 
 #### **Overview**  
 This project analyzes accident data by cleaning it with Python and visualizing key insights using Power BI. The dashboard provides insights into crash trends, causes, injuries, and damages.  
@@ -35,10 +35,14 @@ This project analyzes accident data by cleaning it with Python and visualizing k
 From analyzing the data, I found the following key points:
 
 1.Most accidents take place on Fridays.
-Most accidents occur on Fridays, which is probably due to the fact that there are more social outings like drinking and clubbing.
+
+
+ Which is probably due to the fact that there are more social outings like drinking and clubbing.
 That would mean that we have to intensify road safety enforcement, like breathalyzer roadblocks, over weekends.
 
 2.Driver mistakes are the primary cause of accidents.
+
+
 Most accidents happen because of mistakes by people, like being distracted while driving, speeding, and careless driving. 
 This suggests how advanced driver assistance systems and more effective driver training programs can help decrease accident rates.
 
